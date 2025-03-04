@@ -7,5 +7,5 @@ College: City College of Angeles\
 Senior HS: Bonifacio V. Romero-SHS\
 High School: Bonifacio V. Romero High School
 ## My Projects
-Midterm Lab Task 1:\
+Midterm Lab Task 1:[Date Cleaning and Preparation using Excel](Lab%20Task%201%20/README.md)
 Midterm Lab Task 2: 
