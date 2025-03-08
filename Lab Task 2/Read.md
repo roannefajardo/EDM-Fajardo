@@ -96,3 +96,17 @@
 ## Step 13: View Query Dependencies  
 - Go to View Menu → Click Dependencies  
 - Check if all queries are correctly linked
+
+## Here's the screenshot of my output after I started data cleaning
+<img src="images/Clead_DS_jobs.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/Role Size Ref.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/Role Type Ref.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/Size RoleType Ref.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/State Ref.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/State.png" alt="Alt Text" Width="900" heigth="300">
+
