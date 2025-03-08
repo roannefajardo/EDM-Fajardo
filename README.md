@@ -12,4 +12,4 @@ High School: Bonifacio V. Romero High School
 ## My Projects
 Midterm Lab Task 1:[Date Cleaning and Preparation using Excel](Lab%20Task%201%20/README.md)
 
-Midterm Lab Task 2: 
+Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]
