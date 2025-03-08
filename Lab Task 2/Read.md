@@ -110,3 +110,7 @@
 
 <img src="images/State.png" alt="Alt Text" Width="900" heigth="300">
 
+## Here's the screenshot of my output before I started data cleaning
+<img src="Images/QueryNaMadumi.png" alt="Alt Text" Width="900" heigth="300">
+
+
