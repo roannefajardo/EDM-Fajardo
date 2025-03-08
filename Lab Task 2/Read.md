@@ -98,7 +98,7 @@
 - Check if all queries are correctly linked
 
 ## Here's the screenshot of my output before I started data cleaning
-<img src="Images/QueryNaMadumi.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/QueryNaMadumi.png" alt="Alt Text" Width="900" heigth="300">
 
 
 ## Here's the screenshot of my output after I started data cleaning
