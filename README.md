@@ -10,7 +10,9 @@ Senior HS: Bonifacio V. Romero-SHS\
 High School: Bonifacio V. Romero High School
 
 ## My Projects
-Midterm Lab Task 1:[Date Cleaning and Preparation using Excel](https://github.com/roannefajardo/EDM-Fajardo/blob/main/Lab%20Task%201%20/README.md)
+Midterm Lab Task 1:[Date Cleaning and Preparation using Excel](https://roannefajardo.github.io/Midterm-Lab-Task-1/)
 
-Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://github.com/roannefajardo/EDM-Fajardo/blob/main/Lab%20Task%202/Read.md)
+Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://roannefajardo.github.io/Midterm-Lab-Task-2-/)
+
+Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://roannefajardo.github.io/Midterm-Lab-Task-3/)
 
