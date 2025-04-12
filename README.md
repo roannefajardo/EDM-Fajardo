@@ -10,10 +10,16 @@ College: City College of Angeles\
 Senior HS: Bonifacio V. Romero-SHS\
 High School: Bonifacio V. Romero High School
 
-## My Projects
+## My Midterms Projects
 Midterm Lab Task 1:[Date Cleaning and Preparation using Excel](https://roannefajardo.github.io/Midterm-Lab-Task-1/)
 
 Midterm Lab Task 2:[Data Cleaning and Preparation using POWER QUERY](https://roannefajardo.github.io/Midterm-Lab-Task-2-/)
 
 Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://roannefajardo.github.io/Midterm-Lab-Task-3/)
 
+## My Finals Projects
+Finals Lab Task 1:[ My SQL Basics](https://roannefajardo.github.io/Finals-Lab-Task-1/)
+
+Finals Lab Task 2:[]()
+
+Finals Lab Task 3:[]()
