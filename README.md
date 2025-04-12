@@ -22,4 +22,4 @@ Finals Lab Task 1:[My SQL Basics](https://roannefajardo.github.io/Finals-Lab-Tas
 
 Finals Lab Task 2:[MySQL Database Creation](https://roannefajardo.github.io/Finals-Lab-Task-2/)
 
-Finals Lab Task 3:[Table Manipulation]()
+Finals Lab Task 3:[Table Manipulation](https://roannefajardo.github.io/Finals-Lab-Task-3/)
