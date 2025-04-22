@@ -2,6 +2,7 @@
 This portfolio will contain my copies of my Enterprise Data Management Lab Exercises
 
 ## About me
+###### ![Image](https://github.com/user-attachments/assets/09348eb7-7d33-4130-86e0-8d0a8fdbd19b)
 
 Hi, I'm Roanne Fajardo. I'm a BS Information Systems student from Class I102. I love reading and I'm a quiet, introverted person. I balances my studies with my personal life and currently learning C and Java programming.
 
