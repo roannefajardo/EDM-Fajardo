@@ -25,4 +25,4 @@ Finals Lab Task 2:[MySQL Database Creation](https://roannefajardo.github.io/Fina
 
 Finals Lab Task 3:[Table Manipulation](https://roannefajardo.github.io/Finals-Lab-Task-3/)
 
-Finals Lab Task 3.1: [Using MySQL CLAUSE]()
+Finals Lab Task 3.1: [Using MySQL CLAUSE](https://roannefajardo.github.io/Finals-Lab-Task-3.1/)
