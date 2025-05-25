@@ -26,3 +26,7 @@ Finals Lab Task 2:[MySQL Database Creation](https://roannefajardo.github.io/Fina
 Finals Lab Task 3:[Table Manipulation](https://roannefajardo.github.io/Finals-Lab-Task-3/)
 
 Finals Lab Task 3.1: [Using MySQL CLAUSE](https://roannefajardo.github.io/Finals-Lab-Task-3.1/)
+
+Finals Lab Task 5: [Views, Stored Procedures and Functions](https://roannefajardo.github.io/Finals-Lab-Task-5/)
+
+Finals Lab Task 6: [MongoDBCRUD](https://roannefajardo.github.io/Finals-Lab-Task-6/)
